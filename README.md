@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bigMurm
+- 👋 Hi, I’m bigMurm
 - 👀 I’m interested in music, sports & food!
 - 🌱 I’m currently learning computer science.
 - 💞️ I’m looking to collaborate on many diffrents porjects, God willing!
